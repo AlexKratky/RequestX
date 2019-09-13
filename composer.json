@@ -1,0 +1,19 @@
+{
+    "name": "alexkratky/requestx",
+    "description": "Class to work with HTTP requests and HTTP methods.",
+    "keywords": ["php", "http", "request"],
+    "homepage": "https://panx.eu/",
+    "license": ["MIT"],
+    "authors": [{
+            "name": "Alex Kratky",
+            "homepage": "https://alexkratky.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "alexkratky/url": "^0.2.0"
+    },
+    "autoload": {
+        "files": ["src/Request.php"]
+    }
+}
