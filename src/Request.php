@@ -3,7 +3,7 @@
  * @name Request.php
  * @link https://alexkratky.com/                        Author website
  * @link https://panx.eu/docs/                          Documentation
- * @link https://github.com/AlexKratky/panx-framework/  Github Repository
+ * @link https://github.com/AlexKratky/RequestX/  		Github Repository
  * @author David Grudl
  * @author Alex Kratky <alex@panx.dev>
  * @license https://github.com/nette/http/blob/master/license.md

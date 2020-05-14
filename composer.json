@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "alexkratky/url": "^0.3.0"
+        "alexkratky/url": "^1.0.0"
     },
     "autoload": {
         "files": ["src/Request.php"]
